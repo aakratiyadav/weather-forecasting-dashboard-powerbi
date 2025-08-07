@@ -92,3 +92,9 @@ Used to show rainfall accumulation over time
 Helps compare how monsoon intensity varied across years
 
 
+✅ Conclusion
+This project demonstrates how data-driven approaches can enhance weather monitoring and provide a clear view of long-term climate shifts in India.
+
+
+
+
